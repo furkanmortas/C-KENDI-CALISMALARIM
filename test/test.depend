@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1702279942 source:c:\users\mortas\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1702156250 source:c:\users\mortas\desktop\test\scanf kullanimi.c
+	<stdio.h>
+
+1702381013 source:c:\users\mortas\desktop\test\ýf.c
+	<stdio.h>
+	<stdlib.h>
+
+1702381843 source:c:\users\mortas\desktop\test\ifelseornek1.c
+	<stdio.h>
+	<stdlib.h>
+
+1702382516 source:c:\users\mortas\desktop\test\ýfelseornek1.c
+	<stdio.h>
+	<stdlib.h>
+
